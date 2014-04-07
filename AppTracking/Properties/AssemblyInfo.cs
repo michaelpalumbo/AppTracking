@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("AppTracking")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("StillDesign")]
 [assembly: AssemblyProduct("AppTracking")]
 [assembly: AssemblyCopyright("Copyright © StillDesign 2014")]
 [assembly: AssemblyTrademark("")]
